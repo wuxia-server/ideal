@@ -3,7 +3,7 @@ package app
 import (
 	"flag"
 	"fmt"
-	"ideal/module"
+	"github.com/wuxia-server/ideal/module"
 	"os"
 	"os/exec"
 	"path/filepath"
