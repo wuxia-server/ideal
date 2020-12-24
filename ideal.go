@@ -6,6 +6,5 @@ import (
 )
 
 func CreateApp(opts ...module.Option) module.App {
-	app := app.NewApp(opts...)
-	return app
+	return app.NewApp(opts...)
 }
